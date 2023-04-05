@@ -13,7 +13,7 @@ export default function Reactdesign() {
       </Float>
       <Stars saturation={-1} count={400} speed={0.5} />
       <EffectComposer>
-        <Bloom mipmapBlur luminanceThreshold={1} radius={.6} />
+        <Bloom mipmapBlur luminanceThreshold={1} radius={.45} />
       </EffectComposer>
     </Canvas>
   )

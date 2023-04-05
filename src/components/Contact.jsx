@@ -90,10 +90,18 @@ const Contact = () => {
            Send
           </button>
          
-          <div className="flex flex-row gap-10 ml-[40px] mt-[10px]">
-          <a href="https://github.com/EmirSimsek52"><SiGithub size={30}/></a>
-          <a href="https://www.linkedin.com/in/emir-%C5%9Fim%C5%9Fek-575184253/"><SiLinkedin size={30}/></a>
-          <a href="https://twitter.com/zlatannovicc"><SiTwitter size={30}/> </a>
+          <div className="flex flex-row gap-10 ml-[20px] mt-[10px]">
+            <ul className="flex flex- row-auto sm:gap-10 gap-4">
+              <li>
+              <a href="https://github.com/EmirSimsek52"><SiGithub size={30}/></a>
+              </li>
+              <li>
+              <a href="https://www.linkedin.com/in/emir-%C5%9Fim%C5%9Fek-575184253/"><SiLinkedin size={30}/></a>
+              </li>
+              <li>
+              <a href="https://twitter.com/zlatannovicc"><SiTwitter size={30}/> </a>
+              </li>
+            </ul>
           </div>
           </div>
           {success &&

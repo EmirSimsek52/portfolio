@@ -5,13 +5,13 @@ import { ComputersCanvas } from './canvas'
 const Hero = () => {
   return (
     <section className={`relative w-full h-screen mx-auto`}>
-      {<video
+      {/*<video
         className='object-cover h-full w-full absolute -z-10'
         src="/src/assets/video.mp4"
         autoPlay
         loop
         muted
-  />} 
+  />*/} 
     <div
       className={`absolute inset-0 top-[120px]  max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
     >
