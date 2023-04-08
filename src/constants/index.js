@@ -1,4 +1,5 @@
 import {
+  sacaryawebdemo,
     mobile,
     backend,
     creator,
@@ -297,6 +298,31 @@ import {
         },
       ],
       image: bank,
+      source_code_link: "https://github.com/EmirSimsek52/FlashBank3DWeb",
+    },
+    {
+      name: "Car Rent Website",
+      description:
+        "Official Sacarya Rental Website demo. You can update cars info. If someone want to rent car you will get message from emailjs.",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "green-text-gradient",
+        },
+        { 
+          name: "Firebase",
+          color: "orange-text-gradient",
+        },
+        { 
+          name: "EmailJS",
+          color: "text-[purple]",
+        },
+      ],
+      image: sacaryawebdemo,
       source_code_link: "https://github.com/EmirSimsek52/FlashBank3DWeb",
     },
   ];

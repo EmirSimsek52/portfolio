@@ -35,7 +35,9 @@ import tripguide from "./tripguide.png";
 import csporject from "./csproject.png";
 import bank from "./bank.png";
 import webtshirt from "./webtshirt.png";
+import sacaryawebdemo from "./sacaryademoimg.png";
 export {
+  sacaryawebdemo,
   logo,
 webtshirt,
   bank,
