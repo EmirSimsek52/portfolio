@@ -223,6 +223,7 @@ import {
       ],
       image: rentalapp,
       source_code_link: "https://github.com/EmirSimsek52/RentaCarApp",
+      live_link: "https://github.com/EmirSimsek52/RentaCarApp",
     },
     {
       name: "Crypto Live Price",
@@ -240,6 +241,7 @@ import {
       ],
       image: cryptoimg,
       source_code_link: "https://github.com/EmirSimsek52/CryptoWeb",
+      live_link: "https://emirsimsek52.github.io/CryptoWeb/",
     },
     {
       name: "Car Rental Automation",
@@ -257,6 +259,7 @@ import {
       ],
       image: csporject ,
       source_code_link: "https://github.com/EmirSimsek52/RentaCarAutomation",
+      live_link: "https://github.com/EmirSimsek52/RentaCarAutomation",
     },
     {
       name: "3D T-shirt Model Design",
@@ -278,6 +281,7 @@ import {
       ],
       image: webtshirt,
       source_code_link: "https://github.com/EmirSimsek52/3DShirtDIYWeb",
+      live_link: "https://3dshirtmodeldesign.netlify.app/",
     },
     {
       name: "Modern 3D Bank Concept",
@@ -299,6 +303,7 @@ import {
       ],
       image: bank,
       source_code_link: "https://github.com/EmirSimsek52/FlashBank3DWeb",
+      live_link: "https://flashbank3dweb.netlify.app/",
     },
     {
       name: "Car Rent Website",
@@ -324,6 +329,7 @@ import {
       ],
       image: sacaryawebdemo,
       source_code_link: "https://github.com/EmirSimsek52/sacaryawebdemo/tree/main",
+      live_link: "https://sacaryademo.netlify.app/#AnaSayfa",
     },
   ];
   

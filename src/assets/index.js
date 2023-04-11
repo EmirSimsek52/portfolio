@@ -36,7 +36,9 @@ import csporject from "./csproject.png";
 import bank from "./bank.png";
 import webtshirt from "./webtshirt.png";
 import sacaryawebdemo from "./sacaryademoimg.png";
+import live from "./live.png";
 export {
+  live,
   sacaryawebdemo,
   logo,
 webtshirt,
