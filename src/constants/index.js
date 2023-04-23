@@ -32,7 +32,8 @@ import {
     firebaselogo,
     sqllogo,
     rentalapp,
-    csporject 
+    csporject,
+    reactjob
   } from "../assets";
   
   export const navLinks = [
@@ -330,6 +331,21 @@ import {
       image: sacaryawebdemo,
       source_code_link: "https://github.com/EmirSimsek52/sacaryawebdemo/tree/main",
       live_link: "https://sacaryademo.netlify.app/#AnaSayfa",
+    },
+    {
+      name: "Joub Found App",
+      description:
+      "Job found app fetch all data from jsearch api. Job advertisements are real, you can check the application video on click live button.",
+      tags: [
+        {
+          name: "React-Native",
+          color: "blue-text-gradient",
+        },
+        
+      ],
+      image: reactjob,
+      source_code_link: "https://github.com/EmirSimsek52/jobfound-app",
+      live_link: "https://www.youtube.com/shorts/dZaPSkLLEzo",
     },
   ];
   
