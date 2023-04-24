@@ -78,5 +78,5 @@ webtshirt,
   carrent,
   jobit,
   tripguide,
-  reactjob,
+  reactjob, 
 };

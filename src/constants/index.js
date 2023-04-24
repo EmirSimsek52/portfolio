@@ -244,23 +244,21 @@ import {
       source_code_link: "https://github.com/EmirSimsek52/CryptoWeb",
       live_link: "https://emirsimsek52.github.io/CryptoWeb/",
     },
+    
     {
-      name: "Car Rental Automation",
+      name: "Joub Found App",
       description:
-        "You can register any information about customers, cars and contract in this automation. Then you can see upload and delete them.",
+      "Job found app fetch all data from jsearch api. Job advertisements are real, you can check the application video on click live button.  ",
       tags: [
         {
-          name: "C Sharp",
+          name: "React-Native",
           color: "blue-text-gradient",
         },
-        {
-          name: "SQL",
-          color: "green-text-gradient",
-        },
+        
       ],
-      image: csporject ,
-      source_code_link: "https://github.com/EmirSimsek52/RentaCarAutomation",
-      live_link: "https://github.com/EmirSimsek52/RentaCarAutomation",
+      image: reactjob,
+      source_code_link: "https://github.com/EmirSimsek52/jobfound-app",
+      live_link: "https://www.youtube.com/shorts/dZaPSkLLEzo",
     },
     {
       name: "3D T-shirt Model Design",
@@ -332,21 +330,7 @@ import {
       source_code_link: "https://github.com/EmirSimsek52/sacaryawebdemo/tree/main",
       live_link: "https://sacaryademo.netlify.app/#AnaSayfa",
     },
-    {
-      name: "Joub Found App",
-      description:
-      "Job found app fetch all data from jsearch api. Job advertisements are real, you can check the application video on click live button.",
-      tags: [
-        {
-          name: "React-Native",
-          color: "blue-text-gradient",
-        },
-        
-      ],
-      image: reactjob,
-      source_code_link: "https://github.com/EmirSimsek52/jobfound-app",
-      live_link: "https://www.youtube.com/shorts/dZaPSkLLEzo",
-    },
+    
   ];
   
   export { services, technologies, experiences, testimonials, projects };
